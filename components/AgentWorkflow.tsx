@@ -26,7 +26,7 @@ interface WorkflowStep {
   type: 'ai' | 'human' | 'data' | 'output';
   duration: string;
   status: 'pending' | 'processing' | 'completed';
-  icon: any;
+  icon: React.ComponentType<{ className?: string }>;
 }
 
 export default function AgentWorkflow() {

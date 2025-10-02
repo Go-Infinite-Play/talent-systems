@@ -1,18 +1,15 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import dynamic from 'next/dynamic';
+import Image from 'next/image';
 import {
   Activity,
-  BarChart3,
   Workflow,
   FileText,
-  ChevronRight,
   Zap,
-  DollarSign,
   Users,
-  Clock,
   TrendingUp,
   CheckCircle,
   Sparkles
@@ -46,14 +43,7 @@ const SpotlightComplianceWorkflow = dynamic(() => import('@/components/Spotlight
 
 export default function Home() {
   const [viewMode, setViewMode] = useState<'report' | 'workflows'>('report');
-  const [isLoaded, setIsLoaded] = useState(false);
   const [activeWorkflow, setActiveWorkflow] = useState<'marketing' | 'sales' | 'support' | 'engineering' | 'spotlight' | null>(null);
-
-  useEffect(() => {
-    // Ensure components are loaded
-    const timer = setTimeout(() => setIsLoaded(true), 100);
-    return () => clearTimeout(timer);
-  }, []);
 
   // Key metrics
   const metrics = {
@@ -74,7 +64,7 @@ export default function Home() {
             <div className="flex items-center gap-8">
               {/* Logo and Title */}
               <div className="flex items-center gap-3">
-                <img src="/talent-systems-logo.png" alt="Talent Systems" className="h-8" />
+                <Image src="/talent-systems-logo.png" alt="Talent Systems" width={160} height={32} className="h-8 w-auto" priority unoptimized />
               </div>
 
               {/* Navigation */}

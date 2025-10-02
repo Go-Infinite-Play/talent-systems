@@ -12,7 +12,6 @@ import {
   Clock,
   DollarSign,
   Rocket,
-  AlertCircle,
   Play,
   Pause,
   RotateCcw,
@@ -28,7 +27,7 @@ interface WorkflowStep {
   title: string;
   description: string;
   time: string;
-  icon: any;
+  icon: React.ComponentType<{ className?: string }>;
   details: string[];
   status: 'waiting' | 'processing' | 'completed';
   output?: string;

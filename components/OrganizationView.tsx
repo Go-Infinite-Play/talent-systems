@@ -1,9 +1,8 @@
 'use client';
 
 import { useState, useRef, useMemo } from 'react';
-import { Canvas, useFrame, useThree } from '@react-three/fiber';
+import { Canvas, useFrame } from '@react-three/fiber';
 import { OrbitControls, Text, Box, Sphere, Line, Float, MeshDistortMaterial } from '@react-three/drei';
-import { motion, AnimatePresence } from 'framer-motion';
 import * as THREE from 'three';
 import { DEPARTMENTS, AI_AGENTS, PLATFORM_INTEGRATIONS } from '@/lib/aiAgents';
 import { useStore } from '@/lib/store';
@@ -241,6 +240,7 @@ function DataFlow({ from, to, color = '#06B6D4' }: {
             count={particleCount}
             array={positions}
             itemSize={3}
+            args={[positions, 3]}
           />
         </bufferGeometry>
         <pointsMaterial size={0.3} color={color} transparent opacity={0.8} />

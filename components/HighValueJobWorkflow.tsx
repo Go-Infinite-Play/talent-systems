@@ -27,7 +27,7 @@ interface WorkflowStep {
   title: string;
   description: string;
   time: string;
-  icon: any;
+  icon: React.ComponentType<{ className?: string }>;
   details: string[];
   status: 'waiting' | 'processing' | 'completed';
   output?: string;
@@ -545,7 +545,7 @@ export default function HighValueJobWorkflow() {
           </ul>
           <div className="mt-4 p-3 bg-green-900/20 rounded-lg border border-green-800/50">
             <p className="text-green-400 font-semibold">Total: 2 minutes</p>
-            <p className="text-gray-400 text-sm">Jobs promoted while they\'re still fresh</p>
+            <p className="text-gray-400 text-sm">Jobs promoted while they&apos;re still fresh</p>
           </div>
         </div>
       </div>

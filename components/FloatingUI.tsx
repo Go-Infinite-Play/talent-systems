@@ -15,10 +15,8 @@ import {
   Sparkles,
   Target,
   Zap,
-  Globe,
   Menu,
   X,
-  Info,
   ChevronRight
 } from 'lucide-react';
 import { useState, useEffect } from 'react';

@@ -10,10 +10,8 @@ import {
   Zap,
   Activity,
   Target,
-  Award,
   ChevronUp,
-  ChevronDown,
-  AlertCircle
+  ChevronDown
 } from 'lucide-react';
 import { AI_AGENTS, DEPARTMENTS } from '@/lib/aiAgents';
 
@@ -57,7 +55,6 @@ export default function ExecutiveDashboard() {
   const [selectedTimeframe, setSelectedTimeframe] = useState<'month' | 'quarter' | 'year'>('year');
 
   // Calculate totals from AI agents
-  const totalSavings = AI_AGENTS.reduce((sum, agent) => sum + agent.impact.costSaved, 0);
   const activeAgents = AI_AGENTS.filter(a => a.status === 'active').length;
   const quickWins = AI_AGENTS.filter(a => a.type === 'quick-win').length;
   const bigSwings = AI_AGENTS.filter(a => a.type === 'big-swing').length;

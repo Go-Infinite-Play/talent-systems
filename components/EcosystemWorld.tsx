@@ -105,6 +105,7 @@ function DataParticles({ source, target }: { source: [number, number, number]; t
           count={particleCount}
           array={positions}
           itemSize={3}
+          args={[positions, 3]}
         />
       </bufferGeometry>
       <pointsMaterial size={0.5} color="#06B6D4" transparent opacity={0.6} />
@@ -125,7 +126,7 @@ function EcosystemNode({ node }: { node: typeof NODES[0] }) {
 
     // Pulse animation for center node
     if (node.type === 'center') {
-      meshRef.current.scale.setScalar(node.scale + Math.sin(state.clock.elapsedTime * 2) * 0.1);
+      meshRef.current.scale.setScalar((node.scale || 1) + Math.sin(state.clock.elapsedTime * 2) * 0.1);
     }
 
     // Hover effect

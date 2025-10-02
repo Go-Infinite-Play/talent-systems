@@ -4,14 +4,12 @@ import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import {
   Users,
-  Search,
   Shield,
   CheckCircle,
   Send,
   Clock,
   DollarSign,
   TrendingUp,
-  AlertTriangle,
   Play,
   Pause,
   RotateCcw,
@@ -27,7 +25,7 @@ interface WorkflowStep {
   title: string;
   description: string;
   time: string;
-  icon: any;
+  icon: React.ComponentType<{ className?: string }>;
   details: string[];
   status: 'waiting' | 'processing' | 'completed';
   output?: string;
