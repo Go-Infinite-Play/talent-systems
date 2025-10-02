@@ -1,0 +1,1186 @@
+AI Discovery at Talent Systems
+Discovery Findings & Strategic Recommendations | Q3 2025
+
+
+This AI transformation roadmap delivers 20+ strategic recommendations across departments, organized into Quick Wins and Big Swings, designed to unlock immediate value while building toward transformational capabilities.
+An investment of $300,000-$505,500 delivers $1,480,750 in annual savings while unlocking 16.28 FTE and 33,852 productivity hours through automation and efficiency gains. 
+The following slides in this report provide the following artifacts and takeaways. 
+Current Process Map Across Departments
+Opportunity Matrix 
+Department Roadmaps & Recommendations 
+Individual Investments & ROI  
+
+
+Executive Summary
+
+Table of Contents
+Discovery
+01
+Current state assessment of workflows across departments, presented as a process diagram
+
+Data Foundations
+02
+Company wide recommendations and building blocks for AI success 
+
+
+Opportunities
+03
+Prioritized opportunity matrix of AI workflows by department
+
+
+Recommendations
+04
+Department-specific implementation roadmaps, ROI projects, and cost estimates
+
+
+
+
+
+
+
+“Context is king for AI agents. Which means that there’s going to be a huge premium for the individuals, teams, and companies that are able to best design systems to give agents the best context to do their work. 
+
+Knowledge work has always been a relatively messy space. If you go into most companies, documentation is often out of date, lots of learnings come just through osmosis internally, and best practices are generally ineffectively shared at scale.
+
+AI agents flip this on its head. The leverage you get from agents is how effectively you can get agents the appropriate data to do their work, with well structured goals, a deep understanding of your workflows, and the practices of your team or company.
+
+Most of this just isn’t written down today or kept up to date. We’re going to see all new levels of emphasis put on documenting everything important about work, and keeping that current in sync across teams. 
+
+And this is going to matter more than ever as AI agents scale from being for individual productivity to being for teams or entire companies.” - Box CEO Aaron Levie
+
+If there’s one thing that you take away from this deck, let it be that without proper context, your AI systems will not work 
+
+Single Player vs Multiplayer AI
+Single Player
+
+These are your basic chat models, and is in reference to employees engaging with tools like ChatGPT, Claude, & Gemini to get their work done. 
+
+This is an incredibly important aspect of AI adoption across Talent Systems, but it is not what the primary focus of this deck is. 
+
+My recommendation for Single Player AI is to 
+
+Provide access to ChatGPT Enterprise / Gemini / or Claude Teams across the organization. 
+Provide continuous training, demos, & insights that enable employees to get their work done more efficiently. 
+Create communication channels to highlight wins and encourage continuous experimentation. 
+Multiplayer AI
+
+These systems, known as Automations, AI Automations, or AI Agents, enable teams to take current manual processes (often done across multiple employees or across departments) and scale them or augment them with AI actions. 
+
+Most recommendations in this deck will fall under the camp of Multiplayer AI. This is because at the current time, it’s more valuable to have a dedicated individual build and deploy a Multiplayer AI system, than to have a individual teams do it. 
+
+Necessary to understand current processes and pain points. 
+Necessary to have technical knowledge and know how to build automations and agents with advanced prompts, API connections, and proper evaluation frameworks. 
+
+Talent Systems AI Agent Org Chart
+Revenue
+Marketing
+Technology
+General & Administrative
+Sales
+Lead Qualification Agent
+Customer Success
+Stage Name Verification Agent
+Compliance Checking Agent
+Customer Onboarding Agent
+HubSpot Platform Data & CRM Agent
+Growth
+AI Marketing Analysts
+Content
+AEO/GEO Strategy
+Software as Content
+Agentic Marketing Suite
+High Value Job Agent
+Agentic Marketing Suite
+Product
+AI Enabled PRD Templates
+Development
+AI Development Tooling
+AI Test Case Generation
+Playwright Testing Framework
+TPM Workflow Automations
+HR
+HR Bot
+IT
+IT Bot
+Vendor Management Agent
+Customer Support
+Tier 1 Support Agent
+Job Approval Agent
+Cast-It-Reach Forms Agent
+
+An AI Agent is an AI system that, when given a goal or objective, can use a set of tools to achieve that goal, and it will keep working until the job is done.
+Currently, this is best exemplified by software development agents within Cursor or Claude Code. Software developers work hard to provide specs, context, and prompts (the upfront goals), and the agents create and deploy working applications. This same model is quickly moving from within the realm of software engineering, and towards all aspects of knowledge work. 
+Every ~4 months, new foundational model launches enable new capabilities for AI Agents. E.G. computer use agents are beginning to be deployed but are currently too slow and expensive to be used at scale. This could change with the next foundational model release, impacting how we think about certain workflows.   
+The best way to plan for this future is to adopt a culture of continuous experimentation and innovation, with the lowest friction possible. One way to ensure that friction is low, is to always have proper context available to AI systems; and we’re going to talk about that a lot in this deck. 
+
+AI Agents, what they are, why they matter now, and where we’re going
+
+The Problem
+Most companies start with "What AI tools can we implement?" instead of "What business problems need solving?"
+As a result, they end up deploying disconnected pilot projects with little integration strategy. 
+They optimize for short term ROI instead of building sustainable foundations. 
+The Solution
+Before recommending any technology, understand workflows and where time is spent. 
+Identify manual bottlenecks (e.g., 1-3 week data requests, 5-day approval cycles)
+Fix data and process issues before adding AI or new toolsets
+And measure what matters - focus on time saved, decisions accelerated, and capacity unlocked
+
+But First.. Why AI Initiatives Fail
+
+Are we increasing marketplace velocity?
+Time from job posting to application. 
+Number of jobs posted, number of new casting directors/agents/agencies onboarded, time from onboarding to posting first job. 
+Number of actors onboarded, time from onboarding to application of first job, number of jobs applied to. 
+Are we increasing marketing or sales velocity? 
+Lead response time, campaign launch time, cost per acquisition
+Are we increasing product or development velocity? 
+Feature deployment cycle (goal is 2-3 times per week) 
+Are we enabling enhanced strategic decision making? 
+Qualitative - are we using platform data to make decisions vs. ‘vibes’ 
+Are we offloading overtly manual tasks?
+Rate of process automation for previously manual tasks 
+Are we increasing employee efficiency & enjoyment?  
+Qualitative - based on HR, surveys, feedback, etc. 
+
+Success Criteria
+
+Discovery
+Mapping Current Workflows
+01
+
+01 Stakeholder Interviews
+Discovery Process
+Weeks 1-2: Understanding core goals, challenges, and existing pain points through detailed conversations.
+02 Workflow Mapping
+Weeks 3-5: Documenting current processes, identifying bottlenecks, and mapping inter-departmental dependencies.
+03 Opportunity Identification
+Weeks 6-7: Synthesizing findings to pinpoint specific AI opportunities and their potential impact.
+
+Ryan Remstad
+Edrick De Guzman
+Ian Drummond
+Rebecca Lehmann
+Chris Hong
+Bronwyn Lundberg
+Katie Yamashita
+Abhishek Kolwalkar	
+Scott Madej
+Tommy Johnson
+Jamie Sheehan
+Daniel Rosenberg
+Sahil Dalal
+Venus Jaichandani
+Andrew Jackson
+Discovery Interviews
+Ana Dorantes
+Marla Hunter
+Matt Hood
+Sathish Pottavathini
+Mike Read
+Alex Amin
+Rafi Gordon
+Daniel Turner
+Dan Murphy
+Szymon Jankowski
+Jim Arth
+Alisa Leon-Moreno
+Carolyn Blair
+Kevin Johnson
+Joanna Serrano
+Tracy St. Martin
+
+In phase 1, we identified key operational challenges and 
+prioritized departments based on strategic goals and current challenges 
+Data Engineering Bottleneck
+
+Scattered Knowledge Bases
+
+Manual Process Overload
+
+Marketing Lag Times
+
+Legacy Development Velocity
+Current Challenges
+Enable Faster Data-Driven Decision Making 
+Accelerate Marketplace Velocity 
+Scale Without Growing Headcount
+Achieve Daily Software Deployment
+Strategic Goals
+Prioritized departments for AI integration to achieve strategic and operational goals
+Data
+Marketing
+Support/Success
+Product/Dev
+
+For comprehensive workflow diagrams and time sink analysis, please view the 
+FigJam Document
+
+Data
+The Building Block For AI Success
+02
+
+
+AI models require proper context from ALL three data types to deliver optimal value. Each domain demands a distinct extraction and preparation strategy.
+
+Context is Key
+Platform Data
+
+Structured transactional data from 7 platforms covering user behavior, transaction histories, and system performance.
+Current State: Siloed, limited cataloging, bottlenecked access.
+1
+Unstructured Data
+
+Documents and communications across enterprise tools, including Google Drive, Slack, Confluence, meeting notes, Jira, and email threads.
+Current State: Scattered, no unified search, context lost in silos.
+2
+Tacit Knowledge
+
+Critical information stored in employee expertise, covering undocumented processes and historical decision rationale.
+Current State: Inaccessible, lost when employees leave, no capture mechanism.
+3
+
+Four Steps to Provide Context to AI Agents
+
+Well documented processes
+
+Data that is set up to actually get to an agent easily
+
+Hyper precise goals and prompts
+
+Mindset that the human in the loop element is not being involved in every single step of an agent, but editing and reviewing its final output.
+
+Opportunity Matrix
+Prioritized opportunity matrix of AI workflows by department
+
+03
+
+These opportunities were evaluated using four prioritisation criteria to identify Quick Win and Big Swing initiatives that unlock maximum impact across departments 
+Opportunity Impact incl. frequency of task, time to complete task, & number of resources completing task
+
+Alignment with strategic goals and ongoing digital transformation initiatives
+
+Estimated technical complexity and change management implications
+
+Estimated solution cost to develop 
+Prioritisation Criteria
+Estimated Complexity and Cost 
+Low
+High
+Opportunity Impact
+Low
+High
+Big Swings
+Quick Wins
+Nice to Haves
+Deprioritize
+Platform data cataloging
+Unstructured data mapping
+Executive dashboard
+Agentic Marketing Suite
+Product AI Toolkit
+Job Approval AI Agent
+Sales/Success Team Enablement
+Engineering AI Toolkit
+QA & Test Automation
+Customer Support Deflection
+Cast It Reach Forms Generator
+Compliance Automation (Spotlight)
+Name Conflict Resolution (Spotlight)
+Employee HR Bot
+IT Help Desk Bot
+Lead Qualification & Scoring
+Automated Qlik Data Reporting via API
+Automated Expense Processing
+Automated Presentation Templates & Design
+Social Media Content Generators
+Automated Email Replies
+Start Here
+
+Recommendations
+Department-specific implementation roadmaps, ROI projects, and cost estimates
+
+04
+
+Addressing data infrastructure requires implementing quick wins to build AI momentum, enabling more advanced opportunities
+Data | Overview
+To enable company wide instant access to platform data insights, natural language querying of data, and a foundation of context that AI Agents can use, Talent Systems must first properly catalog platform data. 
+Easily accessible, accurate data. 
+
+Proper tagging and cataloging of platform events
+Department Goals
+Key Takeaways
+A third party Snowflake consultant can help to expedite proper data cataloging across platforms. 
+
+Once completed, implementation of Snowflake Cortex (semantic model on top of data) and less reliance on Qlik is possible. 
+
+The biggest opportunity in the next five years relies on AI Agents to be fed proper context from platform data. The High-Value Job Campaign Agent is a prime example of this. 
+
+Estimated Complexity and Cost 
+Low
+High
+Estimated Timeline
+Near-Term
+Long-Term
+Big Swings
+Quick Wins
+Detailed Breakdown on the following slides
+Platform Data Cataloging
+Unstructured Data Cataloging
+Enterprise Knowledge Search
+Project Specific AI Assistants
+Implement Snowflake Cortex
+Create AI Executive Dashboard
+Unlock AI Agents With Access to Platform Data
+
+Reducing data requests from 1-3 weeks to instant unlocks the greatest productivity opportunity within the organization and enables a majority of further AI recommendations.  
+Proper Cataloging of Platform Data & Unlocking Snowflake Cortex
+Currently
+With AI
+Little documentation of what data exists across 7 platform databases, leading to data requests that take anywhere from a few days to a few weeks. Platform data insights are bottlenecked by the amount of available data engineers. 
+
+Lacking a unified definition of basic business terms (e.g. “subscriber” has different meanings across different platforms) 
+
+Automation opportunities are limited due to the manual nature of requesting insights and pulling new requests. 
+
+   
+Once properly cataloged, data insights can be accessed via a semantic model (Snowflake Cortex) 
+Removes analysis bottleneck and turns the entire company into data analysts 
+Reduces data request turnaround time from 1-3 weeks to instant
+Enables advanced AI Automation (explored in depth in future slides) 
+Enables AI Executive Dashboard, leading to real-time decision making & data driven strategy
+
+   
+Enhance Data Team Efficiency 
+Enable Data Driven Executive Decision Making
+Unlock 70% of AI Agent & Automation Opportunities
+Data Infrastructure Foundation
+
+Enterprise knowledge search and project/department specific AI Assistants are reliant on properly structured unstructured data 
+Structuring Unstructured Data for use by AI
+Currently
+Three Step Process 
+Documentation is scattered across 5+ systems (Google Drive, Slack, Confluence, Jira, shared drives). Across industries, McKinsey reports that upwards of 30% of knowledge workers time is spent simply looking for the correct answer, SOP, or documentation. In my discovery interviews, this seems consistent within departments at Talent Systems. Important information is not documented, and instead lives in key employees heads.
+
+The Glean trial showed conflicting reports of usefulness, due to the AI’s inability to differentiate between contradictory or outdated information. 
+   
+There is a three step process per department to enable faster knowledge retrieval and provide proper context to AI systems. 
+
+Curate High-Impact Knowledge, think SOPs, decision trees, FAQs, rubrics, and process documentation. 
+Establish Governance & Ownership by knowledge area and within rules for AI systems (e.g. must cite sources)
+Implement Structured Ingestion Process for enterprise knowledge search, providing context to AI, and ingesting new content 
+
+Tip: Enable employees to create new SOPs with Scribe
+70% reduction in search time per employee.  Estimated 8-12 hrs per week reduced to 2-3.  
+95% reduction in AI hallucinations via authoritative grounding
+Unstructured Data Management
+
+Autonomous AI Data Analysts enable a new form of AI powered executive dashboard, getting ahead of what happened, why, and response suggestions
+AI Powered Executive Dashboard
+Currently
+Automated Data Analysis
+Executives at Talent Systems are hamstrung due to lack of on-demand data analysis, impacting high level strategic decisions, marketing optimization, financial reporting, product roadmaps, and more. 
+   
+Data analysis changes from by request → to on demand → to autonomous and predictive. 
+
+AI Agents constantly analyze key data points within platform metrics, surfacing anomalies, new trends, and insights. Using toolsets, these agents can understand what happened, why it’s happened, and provide immediate recommendations on what responses to take. 
+
+The ultimate AI powered executive dashboard. 
+
+Watch a demo from Orion by Gravity. 
+
+Additional opportunity for a daily executive briefing, utilizing platform data + personal data + data from around the organization and industry. 
+The current data analysis process is compressed into one box, always on data insights. 
+Data/BI Request
+Analysis + Backlog
+Reporting
+Automated Executive Dashboard
+
+Sales & Customer Success: Enable proactive engagement with clients, better understand customer needs, and automate manual processes.
+Sales & Customer Success | Overview
+To enable proactive customer engagement, automated lead processing, and data-driven account management, Sales & Customer Success must eliminate manual verification bottlenecks and integrate platform data insights.
+Automated lead qualification and scoring
+
+Proactive account management based on usage data
+
+Compliance automation for faster onboarding
+Department Goals
+Key Takeaways
+India team processes 50-60 leads daily spending 15 minutes on manual verification that could be automated with HubSpot integrations.
+
+UK team spends 5-10 hours weekly on name conflicts and compliance that automation can reduce by 90%.
+
+Platform usage data integration enables predictive churn prevention and expansion opportunities worth $350K annually.
+Estimated Complexity and Cost 
+Low
+High
+Estimated Timeline
+Near-Term
+Long-Term
+Big Swings
+Quick Wins
+Detailed Breakdown on the following slides
+Name Conflict Resolution (Spotlight)
+Lead Qualification & Scoring
+Compliance Automation (Spotlight)
+HubSpot CRM Automation
+Predictive Customer Health Scoring
+Future Plans
+Automated Customer Vetting
+AI Sales Assistant with Platform Data
+
+Reducing lead processing from 15 minutes to 3 minutes per lead unlocks capacity for the India team to triple qualified pipeline generation
+Lead Qualification & Scoring with AI-Powered Verification
+Currently
+With AI - Lead Qualification Agent
+India-based market intelligence team generates 50-60 leads daily by monitoring competitor platforms and directories, spending 15 minutes per lead on manual research and verification.
+
+Manual verification includes searching for previous work, checking websites, validating experience claims, and protecting against scams - consuming entire working days.
+
+Inconsistent qualification standards across team members leads to variable lead quality and missed high-value opportunities.
+AI automatically verifies identities against industry databases, validates professional backgrounds, and scores leads based on historical conversion patterns using HubSpot lead scoring + Clearbit enrichment.
+
+Reduces verification time by 70%. 
+Processes 3x more leads with same team
+Improves conversion with consistent scoring
+Send real-time alerts for high-value prospects
+
+   
+Triple Lead Volume Same Team Size
+Improve Lead Quality Data-Driven Scoring
+Never Miss Opportunities instant notifications
+Lead Qualification Automation
+
+Automating UK (Spotlight) stage name verification eliminates timely manual checking, saving 10 hours weekly
+Intelligent Name Conflict Resolution for Spotlight Platform
+Currently
+With AI
+Spotlight UK requires every performer to have a unique stage name, forcing staff to manually check every registration against the entire database for conflicts and similarities.
+
+Complex rules (e.g., "James" and "Jamie" too similar) require 5-10 hours weekly of manual checking, with youth-to-adult transitions requiring extensive review.
+
+Week-long approval delays frustrate performers and agents, creating bottlenecks in the onboarding process that impact platform liquidity.
+An automated system using phonetic matching and LLMs with rigorously tested prompts to provide instant name validation during registration.
+
+Three Step Implementation 
+
+Real-time Validation during registration with instant feedback on conflicts 
+Intelligent Suggestions using middle initials, similar names, etc. 
+Automated Youth Transitions with proactive outreach before their 18th birthday. 
+
+   
+90% reduction in manual checking saving 10 hrs per week
+Same-day approvals vs 1 week delays
+UK Stage Name Verification
+
+AI-powered compliance checking transforms week-long approval delays into same-day verification for UK (Spotlight) talent profiles
+Automated Photo, Credit, and Media Compliance Verification
+Currently
+With AI
+Every Spotlight performer profile, photo, and media submission requires manual review for compliance with strict industry standards.
+
+Moderators spend 12-18 hours weekly checking photo quality, verifying credits against production databases, and validating technical specifications.
+
+Week-long approval bottlenecks frustrate talent and agents trying to submit for time-sensitive roles, directly impacting marketplace velocity.
+LLMs and AI Agents with moderation tools automatically verify submissions against compliance standards with instant user feedback.
+
+
+Photo scanning via Gemini 2.5 for quality and appropriateness
+Credit Verification against production databases 
+Technical validation of media specs
+Instant feedback during upload with correction guidance
+
+Only edge cases escalate to human moderators for nuanced decisions
+
+   
+Week → Same Day Approval Timeline
+Save 18 hrs/week moderation time
+UK Compliance Checking Automation
+
+Automating manual verification steps reduces customer onboarding from 45 minutes to 5 minutes while maintaining fraud protection standards
+AI-Powered Business Verification for Customer Onboarding
+Currently
+With AI
+Customer Success teams manually verify each new casting director, agency, and production company through time-intensive research and reference checking.
+
+Manual process includes searching company websites, validating business licenses, checking industry references, and verifying production credits - taking 30-45 minutes per customer.
+
+Inconsistent verification approaches across team members create risk of both approving fraudulent accounts and rejecting legitimate businesses due to incomplete research.
+AI automates the manual research steps using business intelligence APIs and industry databases for instant verification with consistent standards.
+
+Industry credential verification against guild and union databases 
+Production credit validation using IMDB and industry databases 
+Website and email verification with domain authority checking
+Risk scoring algorithm based on multiple verification signals 
+
+AI Agents can be programmed to exactly mimic current manual research processes
+
+   
+Consistent Standards Eliminate human variability
+45 min → 5 min Per Verification
+Enhanced fraud detection utilizing multiple data sources
+Automated Customer Onboarding Verification
+
+Connecting platform usage data to HubSpot enables automated insights, proactive outreach, and predictive account management
+Intelligent CRM Automation Powered by Platform Data Integration
+Currently
+With AI
+Sales and Customer Success teams work in HubSpot but lack visibility into actual platform usage, job posting patterns, and engagement metrics.
+
+Manual checking across systems to understand if customers are posting jobs, how many submissions they're receiving, or if usage is declining.
+
+Reactive approach to churn and expansion - only discovering opportunities after customers explicitly request changes or cancel.
+Platform data automatically flows into HubSpot, triggering intelligent workflows and recommendations based on customer behavior.
+
+AI agents analyze usage patterns and automatically:
+Update CRM records with latest activity
+Generate follow-up tasks when usage drops
+Alert to churn risk before cancellation
+Create personalized outreach based on behavior
+
+AI Agents can be programmed to exactly mimic current manual research processes
+
+   
+Ultimately, this is the North Star but proper usage of AI Automation in HubSpot can be implemented on a rolling timeline. 
+
+Requires implementation on a case by case basis. 
+HubSpot Platform Data Integration
+
+Building marketing velocity requires foundation-first approach, enabling content repurposing, campaign automation, and new AI-native content formats 
+Marketing | Overview
+To achieve 10x content velocity, predictive campaign planning, and new customer acquisition channels like AEO/GEO, Marketing must first build a structured brand knowledge foundation that all AI agents can reference.
+10x content production velocity
+
+New acquisition channels (AEO/GEO)
+
+Software as marketing content
+
+Real-time campaign optimization
+Department Goals
+Key Takeaways
+The biggest bottleneck is unstructured brand knowledge scattered across Google Drive, Slack, and team members' heads.
+
+AEO/GEO represents a significant new acquisition channel for further investment
+
+Given current state of manual processes, there is significant opportunity for automation across workflows
+Estimated Complexity and Cost 
+Low
+High
+Estimated Timeline
+Near-Term
+Long-Term
+Big Swings
+Quick Wins
+Social Sentiment Analysis
+Brand Knowledge Base
+High-Value Job Agent
+Software as Content
+Future Plans
+Canva API Automation
+Agentic Marketing Team
+Campaign Ideation Agent
+Detailed Breakdown on the following slides
+Content Research Agents
+Automated Reporting & Attribution
+Podcast Editing
+AEO/GEO Strategy + Third Party Publication
+Full Multi-Touch Attribution Platform
+
+Creating a structured brand knowledge layer enables every marketing AI agent to produce on-brand, accurate content without hallucination
+Curated Brand Intelligence for AI Agent Context
+Currently
+With AI
+Brand guidelines, tone of voice, product information, and campaign history scattered across 20+ Google Docs, Slack threads, and individual team members.
+
+Every AI automation requires manual context input, leading to inconsistent brand voice and factual errors across generated content.
+
+Marketing team spends "dozens of hours monthly pulling from 20 different sources with 10 different people" for basic reporting and content creation.
+
+Build a curated knowledge base that serves as the single source of truth for all marketing AI agents and automations.
+
+Core Brand Layer: Voice guidelines, messaging frameworks, value props, positioning
+Product Knowledge: Features, integrations, pricing, use cases for all 7 platforms
+Campaign Intelligence: Past performance, successful formats, audience insights
+
+This foundation enables AI agents to generate accurate, on-brand content with proper grounding and citations.
+
+   
+95% Accuracy Reduce AI Hallucinations
+Instant Context No manual input needed
+Powers All Agents Single source of truth
+Brand Knowledge Base
+
+Eliminating dozens of hours monthly pulling from 20+ sources enables data-driven budget allocation and true channel performance visibility
+Real-Time Campaign Analytics with Multi-Touch Attribution
+Currently
+With AI
+Marketing analyst manually pulls data from GA4, Qlik, Heap, Meta Ads, Google Ads weekly, creating massive-slide decks that take hours to review.
+
+Single-touch attribution means channels take credit for same conversions - email shows revenue that paid media also claims, leading to poor budget decisions.
+
+LTV calculations use blanket $308 figure with manual 30% reduction for paid media users, updated only annually with no channel-specific breakdown.
+Deploy automated reporting pipeline that consolidates all data sources into real-time dashboards with AI-powered insights.
+
+Multi-touch attribution showing true channel contribution
+Automated weekly reports replacing massive slide decks 
+Real-time LTV by channel not annual estimates
+AI anomaly detection flagging campaign issues instantly 
+
+Platform options: Triple Whale, Rockerbox, or custom attribution model integrated with Snowflake along with individual  analysis via Claude in Excel. 
+
+   
+True ROI Visibility Know what actually works 
+Save 20+ hrs/week Automated reporting
+Optimize Spend Data-driven allocation
+Automated Marketing Reporting
+
+Capturing new signups through AEO/GEO requires content strategy shift and independent publication presence
+Building Trust with LLMs Through External Domain Authority
+Currently
+With AI - AEO Implementation Plan
+Talent Systems platforms appears sparsely in ChatGPT, Claude, or Gemini responses about casting platforms, missing critical discovery moments when users ask "best casting platform" or "how to submit to casting calls."
+
+There is a lot of experimentation and investment, but no systematic approach to AEO. There is currently a lack of best practices in the industry, which means experimentation is key.
+
+All content lives on company domains (talentsystems.com, castingnetworks.com), which LLMs treat as potentially biased sources, reducing citation frequency compared to third-party publications.
+Deploy systematic AEO strategy using proven tactics from companies like WebFlow while enabling a culture of experimentation..
+
+Phase 1: Foundation 
+Transform paid search keywords into questions using LLMs
+Deploy AEO tracking tools to monitor answer share
+Create ‘The Casting Journal’ - independent publication for external authority 
+
+Phase 2: Content Strategy 
+YouTube videos for B2B terms like “casting platform comparison” - few videos exist for non-glamorous industry terms 
+Reddit strategy with transparent Talent Systems affiliation providing useful answers
+Help center optimization for follow-up questions about features and integrations
+
+
+
+   
+AEO/GEO Strategy
+
+Eliminating 5-day lag in high-value job promotion unlocks $350K in missed commercial casting opportunities
+Autonomous Job Discovery, Curation, and Campaign Execution
+Currently
+With AI - Automated Agent Workflow
+Carolyn manually identifies high-value jobs Monday/Wednesday, taking 5-10 hours weekly parsing payment text for brands like Toyota, Amazon, MAX.
+
+Marketing creates ads with 2-day turnaround, using overnight vendor for creative production, causing 5-day total lag from time the high-value role is posted..
+
+Time-sensitive commercial castings expire before promotion, directly impacting marketplace liquidity and talent opportunities.
+AI agent continuously monitors job postings, identifies high-value opportunities, and executes campaigns in real-time.
+
+Agent parses new posted roles (via Snowflake Cortex) at set times. 
+Identifies brands / casting directors that do not fit promotional criteria 
+Selects roles, communicates them to relevant marketing team members 
+Utilizes Canva API for automated creative production 
+Sends to social and paid media teams. 
+
+Agent connects to Qlik/Snowflake for real-time data access and campaign execution 
+
+
+
+
+   
+The 5-day lag causes missed revenue from premium commercial castings that talent never see.
+High-Value Job Promotion
+
+High-Value Job Promotion
+Snowflake Cortex
+
+Platform Data
+Agent pulls every new job posted each morning
+Uses a set of criteria to select high value jobs that are approved for promotion
+Sends approved jobs through a creative pipeline, utilizing the Canva API and LLMs to create variation of ad creative 
+Marketing Team
+Paid Media Agency
+Social Platforms
+
+AI development tools enable marketers to create custom software as content, moving beyond newsletters and videos to interactive value delivery
+Building Functional Tools as Marketing Assets
+Currently
+With AI - Software Content Strategy
+Traditionally, marketing content has been limited to formats like: blog posts, newsletters, podcasts, videos, social posts, and campaigns.
+
+Audience engagement requires passive consumption rather than active utility, limiting value delivery and memorability.
+
+There is a technical barrier that prevents marketers from creating software tools, requiring engineering resources for any interactive content. 
+
+This technical barrier is rapidly decreasing, and enabling a new skill set for marketers.
+Using Lovable, Replit, Bolt, and Claude Code, marketers can build functional tools that provide immediate value to users.
+
+Example Tools for Talent Systems 
+Headshot Quality Checker - AI tool analyzing photos
+Audition Prep Timer - Practice session manager 
+Role Match Calculator - Compatibility scorer
+
+Each tool drives organic sharing, backlinks, and brand awareness while providing genuine utility.
+
+
+
+
+   
+No Engineering Needed Marketers build directly 
+Viral Potential Tools get shared naturally
+Immediate Utility Not just content consumption
+Software as Content Creation
+
+Automated research, ideation, and optimization agents enable data-driven campaigns that respond to market signals in real-time
+AI-Powered Content Planning and Campaign Execution
+Currently
+With AI - Intelligent Automation Suite
+Content planning relies on manual research, with teams spending hours gathering insights from multiple sources for single pieces.
+
+Campaign ideas based on intuition rather than data, missing opportunities from platform usage patterns and external trends.
+
+Social sentiment analysis and reporting done manually, with period-over-period pivot tables taking hours to create weekly.
+Deploy specialized agents for different marketing intelligence needs:
+
+Research Agents: Automatically gather data for blog posts, podcasts, analyzing competitors and trends
+Campaign Ideation: Weekly AI analysis of platform data + external signals generating campaign concepts
+Social Intelligence: Real-time sentiment analysis of comments, DMs, and mentions
+Podcast Editing: Descript AI for automated transcription, filler word removal, chapter creation
+Performance Analysis: Pattern recognition across content types, automatic insight generation
+
+Example from Waldo
+
+
+
+
+   
+Data-Driven Ideas Based on real signals
+Real-Time Responses Capitalize on trends
+Continuous Learning Improve with each campaign
+Agentic Marketing Suite
+
+Transforming customer support requires deflecting tier 1 tickets and automating job approval processes to enable 24/7 support and strategic customer engagement
+Customer Support | Overview
+To achieve 70% tier 1 deflection, eliminate manual job approval bottlenecks, and provide 24/7 customer service, Customer Support must automate basic inquiries and approval workflows while maintaining service quality.
+70% tier 1 support deflection
+
+Automated job approval process
+
+Customer context integration across platforms
+Department Goals
+Key Takeaways
+Current job approval process is highly manual- every interaction takes 2-10 minutes with back-and-forth creating multiple tickets.
+
+Basic support requests like password resets, media uploads, and billing questions consume 15-20 hours weekly but could be automated for 24/7 availability.
+
+Zendesk has no integration with platform backends, forcing agents to manually VPN into multiple systems to understand customer context.
+Estimated Complexity and Cost 
+Low
+High
+Estimated Timeline
+Near-Term
+Long-Term
+Big Swings
+Quick Wins
+Tier 1 Support Deflection
+Customer Context Integration
+Future Plans
+Detailed Breakdown on the following slides
+Basic Job Approval Intelligence
+Full Job Approval Automation
+Proactive Account Health Monitoring
+
+Automating basic inquiries enables 24/7 customer service while reducing support workload by 15-20 hours weekly
+AI-Powered Self-Service for Common Support Requests
+Currently
+With AI - AI Deflection System
+Customer Support handles high volumes of basic requests like password resets, media upload issues, and billing questions that could be automated.
+
+These tier 1 tickets consume 15-20 hours weekly of agent time while customers wait for business hours to get simple problems resolved.
+
+
+Deploy intelligent support deflection using Zendesk AI or Intercom's Resolution Bot to handle common requests automatically.
+
+24/7 password resets with automated email verification
+Media upload troubleshooting with step-by-step guidance
+Basic billing inquiries with account status lookup
+Account access help with automated verification
+Smart escalation when issues require human intervention
+70% Deflection Rate Industry standard goal
+24/7 Availability Never wait for support hours
+Save 20 hrs/week Agent capacity for complex issues
+Tier 1 Support Deflection
+
+Eliminating manual job approval bottlenecks transforms the "most non-scalable process" into streamlined automated workflow
+AI-Powered Job Content and Identity Verification
+Currently
+With AI - Automated Approval Intelligence
+Every job posting creates a Zendesk ticket requiring manual agent review for identity verification, content compliance, and pay rate validation.
+
+Each interaction takes 2-10 minutes with back-and-forth feedback creating multiple tickets per job, making the process "the most non-scalable I've ever seen."
+
+Plaid verification failures require manual review, while content appropriateness and pay rate validation are handled entirely by human agents.
+AI system automatically processes job postings using LLMs and business intelligence APIs for instant verification.
+
+Automated identity verification with enhanced Plaid failure analysis
+Content compliance checking using LLMs for appropriateness
+Pay rate validation against industry standards and local minimums
+Fraud detection using behavioral patterns and historical data
+Instant feedback to producers with specific improvement guidance
+
+Only edge cases requiring nuanced human judgment escalate to support agents.
+Automated Approval Intelligence subject to extensive testing before implemented in production, and likely done on a rolling basis. 
+Job Approval Automation
+
+Eliminate manual VPN access across multiple platforms for customer support agents, enabling agents to provide informed support instantly
+Reduce the amount of time customer support agents spend looking up customer information
+Currently
+Platform Data Integration
+Zendesk has no integration with platform backends, forcing agents to manually VPN into multiple systems to understand customer context.
+
+"I don't know who you are" when customers email support - no visibility into subscription status, account type, recent activity, or platform usage.
+
+Agents juggle 3-5 different platforms simultaneously with "too many clicks" required to access basic customer information.
+Direct API integration between Zendesk and platform backends eliminates VPN access and provides essential customer context for support interactions.
+
+Basic customer lookup showing subscription status, account type, and platform
+Integrated customer data accessible directly within Zendesk tickets
+Single-click account access replacing multi-step VPN process
+Support for all platforms agents handle (3-5 per agent)
+Essential context - "Are you a casting director? Are you an actor? Are you a paying subscriber?"
+
+Once integration is established, enables automated account insights and proactive support capabilities.
+Direct Integration No VPN access needed
+Single-Click Lookup Essential customer info
+Instant Context Know who you’re helping
+Connect Platform Data to Customer Support
+
+Achieving daily releases requires parallel transformation of Product workflows, Development practices, and QA automation - from scattered manual processes to AI-native operations
+Product, Development & QA | Unified Transformation
+To accelerate from 2-4 week cycles to daily releases, we must transform three parallel workstreams: Product standardization with AI-enhanced PRDs, Development evolution to AI-native practices, and QA automation from manual to intelligent testing.
+Product: Centralized docs, standardized PRDs, real-time data access
+
+Development: AI-native coding
+
+QA: Automated test generation, 3-hour regression cycles
+Department Goals
+Key Takeaways
+Internal audit identified 240 hours/quarter savings (10% capacity gain) through better process documentation and standardization.
+
+Current 2-4 week deployment cycles blocked by 3-5 day manual regression testing - industry standard is daily releases.
+
+Modern development teams write only 15-20% of code manually, but organization lacks AI-native development tools and training.
+
+Core automation opportunities exist within Jira and Confluence workflows to eliminate repetitive manual tasks.
+Estimated Complexity and Cost 
+Low
+High
+Estimated Timeline
+Near-Term
+Long-Term
+Big Swings
+Quick Wins
+Future Plans
+Centralized Product Hub
+AI PRD Templates
+AI Native Dev Tooling
+AI Native Development
+AI Test Case Generation
+Playwright Framework
+Autonomous Testing
+Fully AI Native Development
+Cast It Reach Forms Generator
+Detailed Breakdown on the following slides
+
+Creating a single source of truth saves 1.5-3 hours per sprint while enabling AI tools to understand product context
+Quick Win: Unified Product Knowledge Base
+Currently
+Centralized Product Hub
+Bron's audit: "Docs live across Slack, Confluence, shared drives, and DMs" causing teams to "often redo work that already exists."
+
+"Trying to remember the name of someone else's document can be a labyrinth" - hours lost searching for specs and decisions.
+
+Critical context buried in private Slack threads, forgotten Google Docs, and scattered email chains.
+Create Confluence hub with standardized structure enabling both human and AI navigation.
+
+Implementation (Month 1):
+Single landing page per product area
+Standardized naming conventions
+Template library for PRDs, decisions, research
+Slack integration to capture key discussions
+AI-searchable tags for Glean/ChatGPT
+Weekly audit to maintain organization
+
+One Location Everything Findable
+3/hrs per sprint saved
+AI Ready Structured for Search
+Centralized Product Documentation Hub
+
+Enhanced PRD templates with edge case documentation prevent 1.5-2 hours of designer rework per sprint
+Quick Win: Comprehensive Requirement Templates
+Currently
+Enhanced PRD Standard
+No consistent PRD format across PMs - "everyone has efficient way but no consistent approach."
+
+Bron found "missed edge cases get overlooked" causing "the most back-and-forth" between design and development.
+
+"A business delay just before go-live is the most common problem" due to unclear launch criteria.
+Implement company-wide PRD template with built-in edge case tables and launch readiness criteria.
+
+Template Components:
+Edge case table with conditional behaviors
+Launch readiness checklist (go/no-go gates)
+Change control process for scope management
+Acceptance criteria pre-written for QA
+AI research summaries for competitive analysis
+V0/Lovable prototype links
+
+Along with standardized templates, AI research and prototyping tools enable PMs to gain competitive understanding, inspiration, and visualize their ideas such that prototypes become the source of truth. 
+Consistent Format All PMs aligned
+Fewer Surprises Edge cases covered
+Clear Launch Path No last-minute delays
+Enhanced PRD Templates
+
+Automating repetitive workflows saves TPMs 3.5-7 hours per sprint while improving accuracy
+Quick Win: Comprehensive Requirement Templates
+Currently
+Automated Workflows
+TPMs manually update 50+ tickets - "Manually updating over 50 tickets is a major pain point."
+
+Weather updates require manual scanning - "It's all in Jira but I have to piece it together manually."
+
+Risk logs recreated from scratch every sprint across scattered tools.
+Bron’s audit revealed TPMs spend excessive time on release tagging (manually updating 50+ tickets), status reporting (recreating weather updates from scattered Jira data), and risk management (rebuilding same tables every sprint). These are perfect candidates for automation rules.
+
+Implementation Approach:
+Release management automation - Auto-tag fixVersion when tickets move to QA/merge, eliminating manual bulk updates
+Live reporting dashboards - Embedded Jira tables in Confluence that update automatically, replacing manual weather report compilation
+Unified risk tracking - Centralized dashboard with RAG indicators pulling from standardized fields
+Smart notifications - Automated alerts for blockers, dependencies, and status changes
+Bulk operations - Mass ticket updates triggered by workflow events
+Zero Manual Work Set it and forget it
+Live Visibility Always current
+7 hrs/sprint freed TPM focus on strategy
+TPM Workflow Automation
+
+Training developers on Cursor/Claude Code enables immediate 2-3x velocity increase with proper standards
+Quick Win: AI Development Bootcamp
+Currently
+Automated Workflows
+Development team uses basic VS Code with GitHub Copilot, writing 80-90% of code manually.
+
+Modern development teams utilize AI code generators for most boilerplate code, with AI development agents like Cursor, Devin, Claude Code, etc. improving at an exponential rate. 
+
+Code generation is one of the first areas within AI to be entirely automated. This is the first step towards transforming development teams to AI native teams. 
+Launch 2-week intensive training program on AI-native development practices and tools.
+
+Week 1: Foundations
+Cursor IDE setup and configuration
+Prompt engineering for code generation
+Cursor rules for company standards
+Security practices with AI tools
+
+Week 2: Application
+Real feature development with AI
+Code review practices for AI-generated code
+Measuring velocity improvements
+Rapid Upskilling 2 weeks to transform
+2-3x Velocity Immediate impact
+Best Practices Consistent Approach
+AI Development Training
+
+Automating test case creation eliminates manual writing of 6-8 cases per ticket
+Quick Win: Requirements to Test Cases
+Currently
+Automated Workflows
+QA manually writes 6-8 test cases per ticket - "they're having to write manually in TestRail, and that takes time."
+
+Team "cutting corners in test planning because of Sprint demands" leading to escaped bugs.
+
+Always "catching up with developer changes" - only finding issues at Sprint end.
+Deploy AI Agent integration that converts requirements directly into executable test cases.
+
+Implementation Approach:
+Input: JIRA ticket or PRD section
+AI Processing: Claude API with custom prompts
+Dual Output:
+TestRail cases for tracking
+Playwright code for execution
+Edge case detection automatically
+Maintenance: AI updates tests on code changes
+
+
+One ticket → Complete test suite in seconds.
+Instant Generation 6-8 cases in seconds
+Smart Coverage Finds edge cases
+Ready to Run Executable Playwright
+AI Test Case Generation
+
+Modern test automation reduces regression from 3-5 days to 3 hours, enabling daily releases
+Mid-Term: Comprehensive Test Automation
+Currently
+Move Test Execution to Playwright
+600 automated tests but still 3-5 days for regression - blocking Satish's daily release vision.
+
+15% tests remain manual requiring 3.5-4.5 hours with 4-5 people.
+
+Flaky tests and poor cross-browser coverage cause false failures and delays.
+Modern framework executing AI-generated tests across all browsers in parallel.
+
+Capabilities:
+Parallel execution across browsers
+Visual regression catching UI changes
+API + E2E in single framework
+Auto-retry logic eliminating flakiness
+AI-generated tests from requirements
+3-hour complete regression
+
+This is how Netflix and Spotify achieve continuous deployment.
+3-5 days → 3 hours Game changing speed
+100% Automation No Manual Testing
+Daily Releases Finally possible
+Playwright Testing Framework
+
+Automating text-to-code conversion for Cast-It-Reach forms demonstrates AI's potential in product development
+Mid-Term: AI-Powered Form Generation
+Currently
+Automated Generator
+Production companies send Word docs with application requirements, manually converted to custom EasyML code.
+
+Technical Account Manager team builds forms manually for ~200 shows per year.
+
+Days of work per show: analyze requirements → map fields → write XML → test → deploy.
+AI system converts natural language requirements directly into working EasyML forms.
+
+Solution Architecture:
+Upload Word/Excel requirements
+AI extraction of fields and logic
+Automatic EasyML generation
+Visual preview before deployment
+Version control for iterations
+Self-learning from corrections
+
+Build with Lovable/Bolt - perfect internal tool use case.
+This is a perfect example of internal tools that can easily be built using AI Product Development tools to enhance processes 
+Cast-It-Reach Forms Automation
+
+Automating internal operations eliminates hours of daily administrative work while enabling 24/7 employee self-service and intelligent vendor management
+HR, IT & Operations | Overview
+To eliminate manual administrative overhead, reduce employee wait times, and gain control over vendor costs, HR/IT/Operations must deploy intelligent bots for employee support and automated systems for vendor tracking and lifecycle management.
+24/7 employee self-service chatbot
+
+Intelligent vendor cost tracking and alerts
+
+Streamlined IT helpdesk operations
+Department Goals
+Key Takeaways
+Current employee onboarding requires manual task creation and checking multiple systems. 
+
+IT admin work consumes hours nightly and vendor management is a large portion of workload. 
+
+AI tool costs growing rapidly - "Usage variability is going to keep getting crazier, having insight into that across the company is very important."
+Estimated Complexity and Cost 
+Low
+High
+Estimated Timeline
+Near-Term
+Long-Term
+Big Swings
+Quick Wins
+Future Plans
+Employee HR/IT Bot
+Automated Onboarding Workflows
+Predictive Renewal Management
+Vendor Spend Monitoring
+Advanced Vendor Analytics
+Fully Autonomous Employee Support
+Detailed Breakdown on the following slides
+Knowledge Base Integration
+
+Deploying Level 0 chatbot eliminates routine employee questions while providing 24/7 support for common HR and IT issues
+Intelligent Employee Self-Service with Slack Integration
+Currently
+AI-Powered Employee Support
+Employees post questions in public IT channel requiring manual responses from IT team for basic issues like VPN troubleshooting and benefits questions.
+
+No self-service options for common requests - employees wait for business hours to get help with password resets, software access, or HR policy questions.
+
+IT team handles Level 0 support manually: "It'd be great if we could set up like a level zero chatbot that could understand our confluence documentation and knowledge base."
+Deploy Slack-integrated chatbot that provides instant answers using company knowledge base and escalates complex issues automatically.
+
+Implementation Features:
+Slack-native interface - employees get help where they already work
+Confluence/Knowledge base integration for accurate answers
+Common issue resolution - VPN, password, benefits, policies
+Smart escalation - creates tickets when AI can't resolve
+Available 24/7 - no waiting for business hours
+Learning system - improves from interactions
+
+"Meeting people where they're at - they're way more receptive and engaged."
+24/7 Availability Never wait for help
+Native Integration Right within Slack
+Smart Escalation Humans handle complex issues
+Employee HR/IT Chatbot
+
+Automated vendor tracking with AI-powered spend analysis eliminates "chasing tech vendors around" and provides predictive cost management
+Comprehensive Vendor Intelligence with Renewal Automation
+Currently
+AI-Powered Vendor Intelligence
+Vendor management consumes a large portion of IT workload. There’s little automated clarity around software usage, billing, and renewals.  
+
+Discovery of subscriptions happens reactively: "Someone leaves and vendor reaches out - I didn't even know we had a subscription with them."
+
+Manual spreadsheet tracking of contracts, renewals, and spend with no automated alerts or budget monitoring.
+Comprehensive vendor management platform with automated discovery, spend tracking, and predictive analytics for budget planning.
+
+System Capabilities:
+Automated vendor discovery via OAuth logs, invoices, credit card analysis
+Contract management with renewal alerts and notice periods
+Spend tracking against budgets with projected costs
+AI tool usage monitoring for variable pricing models
+Renewal negotiation insights and vendor relationship tracking
+Budget forecasting based on usage patterns and growth
+
+Having insight into AI tool spend variability across the company is going to be very important.
+Recommend using Productiv for SaaS observability and AI usage
+Vendor Management Automation
+
+Investment + ROI
+05
+
+Executive ROI Summary
+Potential for $1.5M in annual savings in year one from automation & efficiency gains
+Investment Required: $300,00 - $505,500
+Annual Savings: $1,480,750
+Weekly Hours Freed: 651 hours (16.28 FTE equivalents)
+Payback Period: 4.1 months
+Total Financial Impact
+
+
+Direct Value Creation
+Annual Cost Savings: $1,480,750 from automation and efficiency gains
+FTE Capacity Unlocked: 16.28 full-time equivalents
+Productivity Hours Reclaimed: 33,852 hours annually (651 weekly × 52)
+Cash-on-Cash ROI: 293% in first year
+
+Strategic Value Drivers
+Daily deployment capability (vs. current 2-4 weeks)
+70% tier 1 support deflection enabling 24/7 service
+10x marketing content velocity proven achievable
+Instant data insights (vs. 1-3 week wait times)
+
+Individual ROI Summary
+
+
+Timeline
+Foundation & Infrastructure
+Prep data across Talent Systems to be used by AI systems. Properly catalog Snowflake data environment and consolidate key knowledge bases by department. 
+
+Q4 2025
+Quick Wins
+Rapid, visible wins across all departments. Customer support automation, HR/IT help desk automation, automated lead qualification & scoring, compliance & name conflict resolution for Spotlight, automated forms for Cast-It-Reach. 
+
+Q1 2026
+Department Transformation
+Restructure teams to work with AI Agents, utilizing learnings from previous quarters roll-outs. Continuous focus on the implications that new models have on possibilities for business transformation. 
+Q3 2026
+Big Swings
+Department specific automations, utilizing agentic frameworks to automate entire tasks. Agentic marketing workflows, product frameworks, sales/success team enablement, engineering & QA workflows, and enhanced data & analysis. 
+Q2 2026
+Note: Prep work for Big Swing initiatives will start in tandem with Quick Win initiatives, with rollout and deployment expected at later dates. 
+
+This create a culture of ongoing exploration, innovation, testing, & deployment. 
